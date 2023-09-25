@@ -1,0 +1,36 @@
+.calculator {
+    margin-top: 40px;
+    border: solid 1px #415073;
+    padding: 20px;
+    background-color: #0a0223;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #314359;
+  }
+
+  .btn {
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px 1px #073a6d;
+  }
+
+  .clear {
+    width: 130px;
+  }
+
+  .enter {
+    height: 110px;
+  }
+
+  .zero {
+    width: 130px;
+  }
+
+  .resultbox {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: solid 3px #073a6d;
+    box-shadow: 1px 1px 1px #082949;
+  }
